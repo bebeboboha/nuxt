@@ -46,8 +46,8 @@
 <script>
     export default {
         layout: 'front',
-        validate() {
-          return false;
-        }
+        // validate() {
+        //   return false;
+        // }
     }
 </script>
